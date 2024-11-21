@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677384549 source:c:\users\darke\downloads\c18 project\c18 space enemy\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<cstdlib>
+	<time.h>
+	<unistd.h>
+	<stdio.h>
+
